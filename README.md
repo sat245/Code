@@ -1,4 +1,4 @@
-# Hello
-testinng repositiory creation
+# Code
+Sharing my code
 Satyam is my name.
-Playing is my aim.
+
