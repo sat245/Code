@@ -1,0 +1,10 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ·ð÷þÿÿÿÿ
+Bsquid:S1125"(Remove the literal "true" boolean value.(†½¯Úüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ªßÄ„þÿÿÿÿ
+Dsquid:S1481"*Remove this unused "root3" local variable.(¯ãÿ×üÿÿÿÿ
+Dsquid:S1481"*Remove this unused "root4" local variable.(¿¸ö‡úÿÿÿÿ
+Ssquid:S1854"9Remove this useless assignment to local variable "root4".(¿¸ö‡úÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+Ssquid:S1854"9Remove this useless assignment to local variable "root3".(¯ãÿ×üÿÿÿÿ

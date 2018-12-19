@@ -2,12 +2,18 @@ package TreeProbblems;
 
 public class MaxDepth {
     public static void main(String [] args){
-        TreeRootNode treeRootNode = new BalancedTreeNode();
-        TreeRootNode root = treeRootNode.getTree();
-        System.out.println("((()))"+MaxDepth.depth(root));
+        BalancedTreeNode treeRootNode = new BalancedTreeNode();
+        BalancedTreeNode treeRootNode1 = new BalancedTreeNode();
+        BalancedTreeNode treeRootNode2 = new BalancedTreeNode();
+
+        treeRootNode.data=1;
+        treeRootNode1.data=2;
+        treeRootNode.left=treeRootNode1;
+
+        System.out.println("((()))"+MaxDepth.depth(treeRootNode));
     }
 
-    private static int depth(TreeRootNode root) {
+    private static int depth(BalancedTreeNode root) {
 
         if(root==null){
             return 0;
@@ -15,7 +21,6 @@ public class MaxDepth {
         else {
             int ld = 1 + depth(root.left);
             int rd = 1+ depth(root.right);
-            //System.out.println(root.data+"  ld "+ld+"  rd "+rd);
             return Math.max(ld,rd);
         }
     }

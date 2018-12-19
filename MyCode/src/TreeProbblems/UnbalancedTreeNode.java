@@ -1,15 +1,14 @@
 package TreeProbblems;
 
-public class UnbalancedTreeNode implements TreeRootNode{
+public class UnbalancedTreeNode {
     int data;
     BalancedTreeNode left;
     BalancedTreeNode right;
 
 
-    @Override
-    public TreeRootNode getTree() {
-        BalancedTreeNode treeRootNode = new BalancedTreeNode();
-        BalancedTreeNode root = treeRootNode.getTree();
+    public static BalancedTreeNode getTree() {
+       // BalancedTreeNode treeRootNode = new BalancedTreeNode();
+      //  BalancedTreeNode root = treeRootNode.getTree();
 
         BalancedTreeNode node11 = new BalancedTreeNode();
         node11.data=11;
@@ -18,14 +17,16 @@ public class UnbalancedTreeNode implements TreeRootNode{
         node12.data=12;
 
         BalancedTreeNode node13 = new BalancedTreeNode();
-        node13.data=12;
+        node13.data=13;
 
-        node11.left=node12;
-        node11.right=node13;
+        node11.left=null;
+       // node12.left=node13;
+        node11.right=node12;
+        node12.right = node13;
 
-        root.left.left.right=node11;
+     //   root.left.left.right=node11;
 
-        return root;
+        return node11;
 
     }
 }

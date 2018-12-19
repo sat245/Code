@@ -1,0 +1,9 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(À¯‰Ğşÿÿÿÿ
+Ysquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8Ûíš¾û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8Ôúº¾û,
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8ÅÊÉ¾û,
+=squid:S1659"!Declare "ch1" on a separate line.(Âº8ÿ‘Î¾û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8¹î ¿û,

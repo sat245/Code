@@ -1,0 +1,5 @@
+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷£≈Û
+dsquid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.BAD_CONTEXT'.(Å∑„¡˘ˇˇˇˇ8Í∏€„Û,
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷£≈Û
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‹µÇ∞

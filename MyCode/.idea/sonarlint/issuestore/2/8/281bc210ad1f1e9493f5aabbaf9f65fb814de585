@@ -1,0 +1,12 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¶çÀµÿÿÿÿÿ8„“Çğ,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(Ñ°½8»ğ½½ğ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«üÎ·ûÿÿÿÿ8µ÷ÍÆğ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8»ğ½½ğ,
+Fsquid:S1481"*Remove this unused "index" local variable.(ìüà·8íÄÇ½ğ,
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ8íÄÇ½ğ,
+`squid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(Ñ°½8»ğ½½ğ,
+Ksquid:S1481"*Remove this unused "flag1" local variable.(Èşíôüÿÿÿÿ8Šáñ¾ğ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶çÀµÿÿÿÿÿ8Úİ¾½ğ,

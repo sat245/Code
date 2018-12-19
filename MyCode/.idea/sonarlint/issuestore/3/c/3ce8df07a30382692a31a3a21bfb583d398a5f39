@@ -1,0 +1,21 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ùï¾ÿÿÿÿÿ8¢şğÁû,
+Asquid:S1659" Declare "b3" on a separate line.(ÒÔœ“ÿÿÿÿÿ8¬ª˜Âû,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8ÔÛÍÀû,
+|squid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(§ãÇ’ûÿÿÿÿ8´ê®Âû,
+lsquid:UselessImportCheck">Remove this unused import 'jdk.nashorn.internal.ir.WhileNode'.(ïÏı‚øÿÿÿÿ8»±—Àû,
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¦ÔƒÄúÿÿÿÿ8¨Ä®Âû,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8ÔÛÍÀû,
+§%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8”œƒÂû,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8¢şğÁû,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(À¯‰Ğşÿÿÿÿ
+esquid:UselessImportCheck"<Remove this unused import 'java.io.CharConversionException'.(°œ¯®8‘È£Âû,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8…÷ŒÀû,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8¢şğÁû,
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¦´Ë8ÔÛÍÀû,

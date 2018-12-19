@@ -1,0 +1,10 @@
+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ8ã‘¦ï,
+Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(Ñ°½8¶¸º½ğ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8ıÄ™ğ,
+`squid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(Ñ°½8¶¸º½ğ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(í­î8¯¡™ğ,
+Fsquid:S1481"*Remove this unused "index" local variable.(ìüà·8¶¸º½ğ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁãÄÊşÿÿÿÿ8ã‘¦ï,

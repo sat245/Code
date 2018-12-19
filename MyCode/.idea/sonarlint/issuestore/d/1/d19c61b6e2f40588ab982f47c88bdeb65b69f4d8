@@ -1,0 +1,7 @@
+
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¦™ƒøÿÿÿÿ
+ƒsquid:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(îµØ—
+†squid:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(ò¦™ƒøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(›½‰Î
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°

@@ -1,0 +1,17 @@
+
+[squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(¦Ξΰ8±Γ¬οπ,
+`squid:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(‘Έψÿÿÿÿ8²ιΫλπ,
+^squid:S2259"B"NullPointerException" will be thrown when invoking method "fn()".(‰άψ8±Γ¬οπ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ΘΪώÿÿÿÿ8•έμοπ,
+^squid:S2259"B"NullPointerException" will be thrown when invoking method "fn()".(‰άψ8±Γ¬οπ,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ήÒ—όÿÿÿÿ8―Υςοπ,
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ΎΓ™ϊÿÿÿÿ
+Fsquid:S1481"*Remove this unused "carry" local variable.(αυΉώ8²ςΒοπ,
+csquid:S2259"B"NullPointerException" will be thrown when invoking method "fn()".(μ΅εόÿÿÿÿ8¨ωχξπ,
+Usquid:S1854"9Remove this useless assignment to local variable "carry".(αυΉώ8νΖοπ,
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(ΛύΞΉ8τκΩξπ,
+Fsquid:S1481"*Remove this unused "carry" local variable.(αυΉώ8νΖοπ,
+Usquid:S1854"9Remove this useless assignment to local variable "carry".(αυΉώ8²ςΒοπ,
+`squid:S2259"?A "NullPointerException" could be thrown; "a" is nullable here.(όΞχύÿÿÿÿ8±Γ¬οπ,

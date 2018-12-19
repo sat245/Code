@@ -1,0 +1,5 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(›½‰Î
+ƒsquid:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(ò˜ªä
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
