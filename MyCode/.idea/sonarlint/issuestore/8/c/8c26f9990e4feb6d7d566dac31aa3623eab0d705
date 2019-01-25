@@ -1,7 +1,7 @@
 
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
 `squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Õ±š
 `squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÌŸ»Â
-Žsquid:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÉÄŸ÷þÿÿÿÿ
 \squid:S2094"BRemove this empty class, write its code or make it an "interface".(ˆø¨ãüÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Žsquid:S1319"tThe type of the "arrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÉÄŸ÷þÿÿÿÿ

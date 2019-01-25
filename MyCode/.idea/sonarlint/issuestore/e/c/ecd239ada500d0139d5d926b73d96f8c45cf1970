@@ -1,18 +1,18 @@
 
 jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¹ŠŞşÿÿÿÿ
-Rsquid:S1854"8Remove this useless assignment to local variable "flag".(ÚÄ¦òøÿÿÿÿ
-¡squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(óÚô…ıÿÿÿÿ
 gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‰£
-jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¹ŠŞşÿÿÿÿ
-jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãÑâîşÿÿÿÿ
-gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‰£
-jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(’»Ñ†üÿÿÿÿ
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(¹ªéˆ
-asquid:UselessImportCheck":Remove this unused import 'java.util.EmptyStackException'.(ì¯¨¯ÿÿÿÿÿ
-jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(À¤†ÿÿÿÿÿ
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
-jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²ˆ€˜úÿÿÿÿ
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(’»Ñ†üÿÿÿÿ
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(Êß¸²
+¡squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(óÚô…ıÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¹ŠŞşÿÿÿÿ
+Rsquid:S1854"8Remove this useless assignment to local variable "flag".(ÚÄ¦òøÿÿÿÿ
 gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‰£
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(²ˆ€˜úÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î‰£
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãÑâîşÿÿÿÿ
+asquid:UselessImportCheck":Remove this unused import 'java.util.EmptyStackException'.(ì¯¨¯ÿÿÿÿÿ
+jsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(À¤†ÿÿÿÿÿ

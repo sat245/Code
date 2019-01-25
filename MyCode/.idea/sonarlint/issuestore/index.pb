@@ -81,3 +81,17 @@ P
  src/Competitions/ChessBoard.java,d/6/d681fa758480ce2e9694f2e7e8d3565ead6abd3f
 Y
 )src/Competitions/OptimalConnectivity.java,3/c/3ce8df07a30382692a31a3a21bfb583d398a5f39
+^
+.src/Graph/SmallestsequencewithgivenPrimes.java,2/a/2ad247d12b0075cf42fefa69e590f2b24d1f9e1b
+H
+src/Graph/ValidPath.java,0/f/0f45559a66f232244f08574504540103f0f44ee4
+V
+&src/Competitions/BeautifulNumbers.java,3/c/3c8c8c03d482472560a53b0ce4a83cb51bb03c67
+W
+'src/Competitions/PlayingWithGraphs.java,f/8/f8d8736c7939ddabbeb4ee1ae0266489304812e0
+]
+-src/Competitions/GS/SecureMyConversation.java,a/b/ab7a3b8c57501449f4e5bef8623b7041e66abd70
+a
+1src/Competitions/GS/ContinuousSubSequenceSum.java,c/6/c6740b8f893a2c758714ddec8a8585c558d21553
+Z
+*src/Competitions/CodeChef/FancyQuotes.java,9/a/9a22a4f8713be5b71a5bb91173d81020b88d1609

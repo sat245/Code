@@ -1,0 +1,9 @@
+
+\squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ºº®‚-
+]squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ºº®‚-
+[squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8ºº®‚-
+_squid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ºº®‚-
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(é©Ì
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ºº®‚-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Îãûÿÿÿÿ8ıĞ´‚-

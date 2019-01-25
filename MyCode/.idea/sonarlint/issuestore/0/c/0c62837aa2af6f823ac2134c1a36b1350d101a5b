@@ -1,9 +1,9 @@
 
+esquid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(çˆ„Ãøÿÿÿÿ8Ôıùäó,
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
-squid:S4165"nRemove this useless assignment; "balancedTreeNode" already holds the assigned value along all execution paths.(çˆ„Ãøÿÿÿÿ8ÍÙÌåó,
 ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËÃ›ıÿÿÿÿ8‰šçäó,
-dsquid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.BAD_CONTEXT'.(·ãÁùÿÿÿÿ8¼äçäó,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(‘³šÁ8îçúäó,
+dsquid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.BAD_CONTEXT'.(·ãÁùÿÿÿÿ8¼äçäó,
 ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íğ—Şÿÿÿÿÿ8¤Àóäó,
-esquid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(çˆ„Ãøÿÿÿÿ8Ôıùäó,
+squid:S4165"nRemove this useless assignment; "balancedTreeNode" already holds the assigned value along all execution paths.(çˆ„Ãøÿÿÿÿ8ÍÙÌåó,

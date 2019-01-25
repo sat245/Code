@@ -1,0 +1,19 @@
+
+squid:S1319"lThe type of the "F" object should be an interface such as "List" rather than the implementation "ArrayList".(±µ™’
+`squid:UselessImportCheck">Remove this unused import 'sun.plugin.dom.core.CoreConstants'.(†œ¶
+Jsquid:S1191"5Use classes from the Java API instead of Sun classes.(†œ¶
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(â´İ‹ıÿÿÿÿ
+squid:S1319"lThe type of the "E" object should be an interface such as "List" rather than the implementation "ArrayList".(±µ™’
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(—··
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ááòõÿÿÿÿÿ
+gsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(±µ™’
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ç Ş—
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ú­”¼
+Usquid:UselessImportCheck".Remove this unused import 'java.security.Key'.(ŞÃ“úÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µ™’

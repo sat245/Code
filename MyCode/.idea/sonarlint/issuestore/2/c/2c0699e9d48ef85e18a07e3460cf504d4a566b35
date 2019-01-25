@@ -1,8 +1,8 @@
 
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
-Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(‰ü¨Û8ÔÇÅÌð,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌýÿÿÿÿ8ÔÇÅÌð,
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÃ¯‰8àí§Ìð,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹½ííþÿÿÿÿ8©ùÒÍð,
 `squid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(‰ü¨Û8ÔÇÅÌð,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹½ííþÿÿÿÿ8©ùÒÍð,
+Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(‰ü¨Û8ÔÇÅÌð,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÃ¯‰8àí§Ìð,

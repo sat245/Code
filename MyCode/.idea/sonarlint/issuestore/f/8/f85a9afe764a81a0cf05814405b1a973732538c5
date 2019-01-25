@@ -1,8 +1,8 @@
 
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆš–8ÀñÉŸñ,
-ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙˆéøÿÿÿÿ8§èĞŸñ,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÒéÍÈúÿÿÿÿ8ùãŸñ,
-`squid:S2259"?A "NullPointerException" could be thrown; "A" is nullable here.(ä½®øùÿÿÿÿ8µ¯•¡ñ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙˆéøÿÿÿÿ8§èĞŸñ,
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+`squid:S2259"?A "NullPointerException" could be thrown; "A" is nullable here.(ä½®øùÿÿÿÿ8µ¯•¡ñ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òˆš–8ÀñÉŸñ,
 ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÙˆéøÿÿÿÿ8§èĞŸñ,

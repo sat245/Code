@@ -1,11 +1,11 @@
 
+‚squid:S1319"mThe type of the "po" object should be an interface such as "List" rather than the implementation "ArrayList".(ë ôâ
+†squid:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(‚¬…óùÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(òÌ‰ùÿÿÿÿ
 lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¬…óùÿÿÿÿ
-†squid:S1319"lThe type of the "B" object should be an interface such as "List" rather than the implementation "ArrayList".(‚¬…óùÿÿÿÿ
-lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¬…óùÿÿÿÿ
 ‚squid:S1319"mThe type of the "in" object should be an interface such as "List" rather than the implementation "ArrayList".(ë ôâ
-†squid:S1319"lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(‚¬…óùÿÿÿÿ
-‚squid:S1319"mThe type of the "po" object should be an interface such as "List" rather than the implementation "ArrayList".(ë ôâ
-]squid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.BAD_CONTEXT'.(·ãÁùÿÿÿÿ
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+]squid:UselessImportCheck"6Remove this unused import 'org.omg.CORBA.BAD_CONTEXT'.(·ãÁùÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¬…óùÿÿÿÿ
+†squid:S1319"lThe type of the "B" object should be an interface such as "List" rather than the implementation "ArrayList".(‚¬…óùÿÿÿÿ

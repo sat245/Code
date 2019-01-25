@@ -1,6 +1,6 @@
 
+Rsquid:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ
 rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(À¯‰Ðþÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
-Rsquid:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ
  %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ

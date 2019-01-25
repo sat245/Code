@@ -1,12 +1,12 @@
 
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÒşÆ8Ğ³•Ÿñ,
 ksquid:UselessImportCheck"BRemove this unused import 'com.sun.org.apache.regexp.internal.RE'.(÷—•–8ŒÈÒñ,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(œ›øÆıÿÿÿÿ8¼ã•Ÿñ,
 dsquid:UselessImportCheck"6Remove this unused import 'javax.swing.tree.TreeNode'.(š­©Òûÿÿÿÿ8ë•ÈŸñ,
-Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(÷—•–8ŒÈÒñ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š°ı8ïÌÌñ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÒşÆ8Ğ³•Ÿñ,
 nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š°ı8ïÌÌñ,
 nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÒşÆ8Ğ³•Ÿñ,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ÒéÍÈúÿÿÿÿ8Ÿ¶âñ,
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š°ı8ïÌÌñ,
-Xsquid:S2589"7Remove this expression which always evaluates to "true"(œ›øÆıÿÿÿÿ8¼ã•Ÿñ,
+Qsquid:S1191"5Use classes from the Java API instead of Sun classes.(÷—•–8ŒÈÒñ,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°

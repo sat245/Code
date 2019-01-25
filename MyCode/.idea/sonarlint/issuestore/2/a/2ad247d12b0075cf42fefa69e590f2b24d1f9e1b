@@ -1,0 +1,19 @@
+
+…squid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(÷…‡
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(”øêè
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷…‡
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÈßß
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷…‡
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ
+Bsquid:S1481"(Remove this unused "arr" local variable.(Š®èøÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷…‡
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Fsquid:S1905",Remove this unnecessary cast to "ArrayList".(ŸÃë‰úÿÿÿÿ
+ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çÔ‹¶şÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÈßß
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(—··
+Vsquid:S1126"AReplace this if-then-else statement by a single return statement.(èãÓØ
+Qsquid:S1854"7Remove this useless assignment to local variable "arr".(Š®èøÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÈßß
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷…‡

@@ -1,16 +1,16 @@
 
-Ksquid:S1481"*Remove this unused "flag1" local variable.(Èşíôüÿÿÿÿ8œ¯¢Ìğ,
-Ysquid:S1854"8Remove this useless assignment to local variable "root".(Íêñ×ùÿÿÿÿ8œ¯¢Ìğ,
-Rsquid:S1854"7Remove this useless assignment to local variable "map".(É¶Ì8œ¯¢Ìğ,
-nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈëù8¾¦³Çğ,
-`squid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(Ñ°½8Æ²Çğ,
-Esquid:S1481")Remove this unused "flag" local variable.(Ö°š·8œ¯¢Ìğ,
-Jsquid:S1481")Remove this unused "root" local variable.(Íêñ×ùÿÿÿÿ8œ¯¢Ìğ,
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+Rsquid:S1854"7Remove this useless assignment to local variable "map".(É¶Ì8œ¯¢Ìğ,
+Fsquid:S1481"*Remove this unused "index" local variable.(ìüà·8œ¯¢Ìğ,
+`squid:S1854"DRemove this useless assignment to local variable "balancedTreeNode".(Ñ°½8Æ²Çğ,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÈëù8¾¦³Çğ,
+Ksquid:S1481"*Remove this unused "flag1" local variable.(Èşíôüÿÿÿÿ8œ¯¢Ìğ,
 ¨squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Šé›„ıÿÿÿÿ8Åº¶Éğ,
+Esquid:S1481")Remove this unused "flag" local variable.(Ö°š·8œ¯¢Ìğ,
+Ysquid:S1854"8Remove this useless assignment to local variable "root".(Íêñ×ùÿÿÿÿ8œ¯¢Ìğ,
+Jsquid:S1481")Remove this unused "root" local variable.(Íêñ×ùÿÿÿÿ8œ¯¢Ìğ,
+Csquid:S1481"(Remove this unused "map" local variable.(É¶Ì8œ¯¢Ìğ,
 qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ş¯¥ıÿÿÿÿ8¾¦³Çğ,
-Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(Ñ°½8Æ²Çğ,
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8Æ²Çğ,
-Csquid:S1481"(Remove this unused "map" local variable.(É¶Ì8œ¯¢Ìğ,
-Fsquid:S1481"*Remove this unused "index" local variable.(ìüà·8œ¯¢Ìğ,
+Qsquid:S1481"5Remove this unused "balancedTreeNode" local variable.(Ñ°½8Æ²Çğ,

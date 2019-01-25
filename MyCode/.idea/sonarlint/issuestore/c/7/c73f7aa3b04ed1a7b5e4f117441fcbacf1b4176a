@@ -1,9 +1,9 @@
 
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(äÌÛ8œŞ¯ô,
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾Íº”8ì³“ô,
 dsquid:UselessImportCheck"6Remove this unused import 'javax.swing.tree.TreeNode'.(š­©Òûÿÿÿÿ8èæˆô,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(Êß¸²8•ë”ô,
 nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Íº”8ì³“ô,
-Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¾Íº”8ì³“ô,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ôì8Ñ¥˜ô,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Üµ‚°
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(äÌÛ8œŞ¯ô,
