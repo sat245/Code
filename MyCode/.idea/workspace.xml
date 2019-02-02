@@ -83,8 +83,8 @@
       <file leaf-file-name="NotebookRevision.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/NotebookRevision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="45">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,29 +95,77 @@
       <file leaf-file-name="CountTheSolutions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolutions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="45">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountTheSolution1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolution1.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="LargestSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/LargestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountTheSoltion.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSoltion.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="ChargedUPArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/ChargedUPArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1155">
+              <caret line="80" column="44" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="notebookRevision.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/notebookRevision.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="PlotTheCurve.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/PlotTheCurve.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="notebookRevision1.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/notebookRevision1.png">
+      <file leaf-file-name="UniquenessViolation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/ADESSA/UniquenessViolation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThePerfectTeam.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/ThePerfectTeam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="36" column="21" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="36" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMovieTitle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/MyMovieTitle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Screenshot 2019-01-26 at 1.55.26 AM.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Competitions/ADESSA/Screenshot 2019-01-26 at 1.55.26 AM.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -143,10 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TreeProbblems/InorderRecursion.java" />
-        <option value="$PROJECT_DIR$/src/TreeProbblems/InorderTraversalWithoutRecursion.java" />
-        <option value="$PROJECT_DIR$/src/TreeProbblems/PostorderTraversalWithoutRecursion.java" />
-        <option value="$PROJECT_DIR$/src/TreeProbblems/PreOrderTraversalWitoutRecursion.java" />
         <option value="$PROJECT_DIR$/src/TreeProbblems/BalancedTreeNode.java" />
         <option value="$PROJECT_DIR$/src/TreeProbblems/TreeRootNode.java" />
         <option value="$PROJECT_DIR$/src/TreeProbblems/UnbalancedTreeNode.java" />
@@ -192,6 +236,12 @@
         <option value="$PROJECT_DIR$/src/Competitions/CodeChef/FancyQuotes.java" />
         <option value="$PROJECT_DIR$/src/Competitions/Expedia/NotebookRevision.java" />
         <option value="$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolutions.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/Lenskart/LargestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/Lenskart/ChargedUPArray.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/Lenskart/PlotTheCurve.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/ADESSA/UniquenessViolation.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/Visa/ThePerfectTeam.java" />
+        <option value="$PROJECT_DIR$/src/Competitions/Visa/MyMovieTitle.java" />
       </list>
     </option>
   </component>
@@ -202,7 +252,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="960" />
@@ -212,9 +262,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,14 +288,7 @@
               <item name="MyCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Competitions" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeChef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Competitions" type="462c0819:PsiDirectoryNode" />
-              <item name="Expedia" type="462c0819:PsiDirectoryNode" />
+              <item name="Visa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
@@ -269,6 +312,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Competitions/ADESSA" />
+      <recent name="$PROJECT_DIR$/src/Competitions/Expedia" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -281,17 +330,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountTheSolutions">
+  <component name="RunManager" selected="Application.ThePerfectTeam">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="ContinuousSubSequenceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competitions.GS.ContinuousSubSequenceSum" />
+    <configuration name="ChargedUPArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Competitions.Lenskart.ChargedUPArray" />
       <module name="Code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competitions.GS.*" />
+          <option name="PATTERN" value="Competitions.Lenskart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,13 +356,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FancyQuotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competitions.CodeChef.FancyQuotes" />
+    <configuration name="LargestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Competitions.Lenskart.LargestSubstring" />
       <module name="Code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competitions.CodeChef.*" />
+          <option name="PATTERN" value="Competitions.Lenskart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -329,13 +378,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SecureMyConversation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competitions.GS.SecureMyConversation" />
+    <configuration name="ThePerfectTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Competitions.Visa.ThePerfectTeam" />
       <module name="Code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competitions.GS.*" />
+          <option name="PATTERN" value="Competitions.Visa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,19 +431,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ContinuousSubSequenceSum" />
-      <item itemvalue="Application.SecureMyConversation" />
-      <item itemvalue="Application.FancyQuotes" />
       <item itemvalue="Application.NotebookRevision" />
       <item itemvalue="Application.CountTheSolutions" />
+      <item itemvalue="Application.LargestSubstring" />
+      <item itemvalue="Application.ChargedUPArray" />
+      <item itemvalue="Application.ThePerfectTeam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThePerfectTeam" />
+        <item itemvalue="Application.ChargedUPArray" />
+        <item itemvalue="Application.LargestSubstring" />
         <item itemvalue="Application.CountTheSolutions" />
         <item itemvalue="Application.NotebookRevision" />
-        <item itemvalue="Application.FancyQuotes" />
-        <item itemvalue="Application.SecureMyConversation" />
-        <item itemvalue="Application.ContinuousSubSequenceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -412,22 +461,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="960" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="958" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32816228" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061053" side_tool="true" weight="0.2479042" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.24642856" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" visible="true" weight="0.24582338" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33028084" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33821735" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -442,7 +492,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32857144" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -828,55 +877,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/AddTwoLinkedListWithRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/VerticalTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="68" column="9" selection-start-line="59" selection-start-column="7" selection-end-line="68" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/BalancedTreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/IdenticalBinaryTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="62" column="5" selection-start-line="34" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/MinDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TreeProbblems/PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -1167,10 +1167,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolution1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/NotebookRevision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="45">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1179,22 +1182,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolutions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSolution1.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/LargestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSoltion.png">
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/ChargedUPArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="80" column="44" selection-start-line="80" selection-start-column="34" selection-end-line="80" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Lenskart/PlotTheCurve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/notebookRevision1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/notebookRevision.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/notebookRevision1.png">
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Expedia/CountTheSoltion.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/ADESSA/Screenshot 2019-01-26 at 1.55.26 AM.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/ADESSA/UniquenessViolation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/ThePerfectTeam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/MyMovieTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

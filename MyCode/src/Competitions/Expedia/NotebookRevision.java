@@ -3,7 +3,7 @@ package Competitions.Expedia;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
+// got 75/100 in it
 public class NotebookRevision {
     public static void main(String args[] ) throws Exception {
 
