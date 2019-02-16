@@ -1,0 +1,79 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(½û«ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê­ªˆ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(À¹«â
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¿ùıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê•¡şÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü§©”ÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÈİ»úÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(›ÿ—£ùÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(œÏÀ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÒÜøÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(–¹ìê
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¬ÃìÓ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(æÖ¡÷
+2squid:S2386"Make this member "protected".(ƒ¤š—
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê­»õùÿÿÿÿ
+ksquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(¨—ğ§
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ğôãûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÿÂÙûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(²º¨ñ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿ©À²ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(™îãª
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûä‚…üÿÿÿÿ
+Bsquid:S1481"-Remove this unused "username" local variable.(“éì¸
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùãàò
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê­Ğ½úÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(²º¨ñ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ìá°
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃËˆŠúÿÿÿÿ
+Ksquid:S1444"6Make this "public static mapBasedOnRating" field final(ƒ¤š—
+ˆ"squid:ClassVariableVisibilityCheck"\Make mapOfRestaurants a static final constant or non-public and provide accessors if needed.(»Ç¾ 
+Ksquid:S1444"6Make this "public static mapOfRestaurants" field final(»Ç¾ 
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ãŠØûûÿÿÿÿ
+ˆ"squid:ClassVariableVisibilityCheck"\Make mapBasedOnRating a static final constant or non-public and provide accessors if needed.(ƒ¤š—
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õÿû€
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ¾¾
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ ±æ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œçô£úÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú€ŞV
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ¾¾
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÿÂÙûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñá™˜ıÿÿÿÿ
+2squid:S2386"Make this member "protected".(»Ç¾ 
+Jsquid:S2209"5Change this instance-reference to a static reference.(ˆë¸ÿ
+Qsquid:S1854"<Remove this useless assignment to local variable "username".(“éì¸
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛÌ¾¦

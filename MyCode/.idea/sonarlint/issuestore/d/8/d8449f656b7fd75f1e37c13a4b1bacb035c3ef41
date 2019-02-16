@@ -1,0 +1,16 @@
+
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‘Èşûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñµ’†
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ıŸ¬‘
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ Ûy
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óú‚×ùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ…İ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óİöÅ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßïŸŸ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•µü¦ùÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‘Èşûÿÿÿÿ
+_squid:S2184"ECast one of the operands of this subtraction operation to a "double".(‘‹Óúøÿÿÿÿ

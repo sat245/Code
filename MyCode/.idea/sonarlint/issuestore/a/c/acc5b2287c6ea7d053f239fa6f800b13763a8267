@@ -1,0 +1,12 @@
+
+\squid:S2184"BCast one of the operands of this addition operation to a "double".(Š¬Í®øÿÿÿÿ
+8squid:S1659"#Declare "count" on a separate line.(Ğ‡ÃÛ
+Osquid:S1854"5Remove this useless assignment to local variable "d".(™ óøÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ
+Rsquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ
+\squid:S2184"BCast one of the operands of this addition operation to a "double".(ÆÆ¥íÿÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÀì÷
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ùï¾ÿÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(íÈı
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ

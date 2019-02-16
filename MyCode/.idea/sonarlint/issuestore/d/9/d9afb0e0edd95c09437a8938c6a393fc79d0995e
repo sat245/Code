@@ -1,0 +1,10 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùï¾Žÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+6squid:S1659"!Declare "max" on a separate line.(Û§£š
+Rsquid:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ýŸ¬‘

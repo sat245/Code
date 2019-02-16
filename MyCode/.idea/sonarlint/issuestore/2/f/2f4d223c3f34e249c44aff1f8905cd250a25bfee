@@ -1,0 +1,8 @@
+
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(­i
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‡ë*8Ç°ˆıŠ-
+`squid:UselessImportCheck"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸8ò­ÜüŠ-
+[squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8ò­ÜüŠ-
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ò­ÜüŠ-
+]squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ò­ÜüŠ-

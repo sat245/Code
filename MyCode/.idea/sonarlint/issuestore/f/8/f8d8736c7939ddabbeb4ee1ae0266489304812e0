@@ -1,16 +1,16 @@
 
-Nsquid:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ò¢ôÕ-
-£squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(›ûä·8Ò½îÖ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8™Ö-
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ùï¾ÿÿÿÿÿ8™Ö-
-Ysquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ïêæÕ-
-Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(á×Ëşÿÿÿÿ8ò¢ôÕ-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8ÒşÕ-
-rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(À¯‰Ğşÿÿÿÿ
 lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(á×Ëşÿÿÿÿ8ò¢ôÕ-
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(¢™µÿÿÿÿÿ8Ä©†Ö-
 Nsquid:S1199"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿ8ò¢ôÕ-
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(À¯‰Ğşÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8ÒşÕ-
+Nsquid:S1199"-Extract this nested code block into a method.(ğÁ–Óûÿÿÿÿ8ò¢ôÕ-
 §%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿ8ÑíÕ-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ùï¾ÿÿÿÿÿ8™Ö-
+£squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(›ûä·8Ò½îÖ-
+Ysquid:S1197"8Move the array designator from the variable to the type.(ùï¾ÿÿÿÿÿ8ïêæÕ-
+Z"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(á×Ëşÿÿÿÿ8ò¢ôÕ-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì­øúÿÿÿÿ8™Ö-
