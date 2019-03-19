@@ -1,28 +1,26 @@
 package Competitions.Flipkart1;
 
-import sun.security.krb5.internal.EncASRepPart;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Queue;
 import java.util.Scanner;
 
 public class BasedOnDifficulty implements CreateQuestion {
 
     static  Double totalSum;
     @Override
-    public List<Question> getQuestion(List<Question> questionBank, Double marks) {
+    public QuestionPaper getQuestion(List<Question> questionBank, Double marks) {
 
         if(questionBank==null || questionBank.size()==0){
             System.out.println("No questions in bank");
             return null;
         }
+        QuestionPaper questionPaper = new QuestionPaper();
         Scanner scanner = new Scanner(System.in);
-        List<Question> prepareListOfQuestions = new ArrayList<>();
+        List<Question> prepareListOfQuestions = questionPaper.questionPaper;
 
         System.out.println("Enter percentage for ");
 
@@ -32,6 +30,10 @@ public class BasedOnDifficulty implements CreateQuestion {
         int medium = scanner.nextInt();
         int hard = scanner.nextInt();
 
+        if(easy+medium+hard > 100){
+            System.out.println("Error in percentage");
+            throw new Exception();
+        }
         Map<Difficulty,List<Question>> map  = getAllQuestions(questionBank);
 
 
@@ -62,7 +64,7 @@ public class BasedOnDifficulty implements CreateQuestion {
         }catch (Exception e1){
 
         }
-        return prepareListOfQuestions;
+        return questionPaper;
 
     }
 
@@ -78,12 +80,15 @@ public class BasedOnDifficulty implements CreateQuestion {
         int sum=0;
         for(int i = 0;i<questions.size();i++){
             sum = (int) (sum+questions.get(i).getMarks());
-            listOfQuestions.add(questions.get(i));
-            if(sum>=marks){
+            if(sum>marks){
                 return listOfQuestions;
-            }
-        }
+            } else if(sum==marks){
+                listOfQuestions.add(questions.get(i));
+                return listOfQuestions;
+            }else
+            listOfQuestions.add(questions.get(i));
 
+        }
         System.out.println("We dont have enough question in this criteria...Adding whole set");
         System.out.println("Total marks/out of"+sum+"/"+marks);
        // totalSum+=sum;

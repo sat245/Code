@@ -6,7 +6,7 @@ public class BasedOnSubject implements CreateQuestion {
     static  Double totalSum;
 
     @Override
-    public List<Question> getQuestion(List<Question> questionBank, Double marks) {
+    public QuestionPaper getQuestion(List<Question> questionBank, Double marks) {
         return null;
     }
 }

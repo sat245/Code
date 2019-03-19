@@ -6,7 +6,7 @@ package StringProblems;
 public class MakeAStringPalindromic {
 
     public static void main(String [] args){
-        System.out.println(solve("banana"));
+        System.out.println(solve("daaaabcd"));
     }
 
     public static int solve(String A) {

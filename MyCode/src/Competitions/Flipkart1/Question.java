@@ -2,6 +2,14 @@ package Competitions.Flipkart1;
 
 public class Question {
 
+    public Long getQuestionId() {
+        return questionId;
+    }
+
+    public void setQuestionId(Long questionId) {
+        this.questionId = questionId;
+    }
+
     private Long questionId;
     private String text;
     private Subject subject;
