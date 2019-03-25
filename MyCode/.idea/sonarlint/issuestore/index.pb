@@ -157,3 +157,5 @@ Q
 !src/Competitions/DBS/minimum.java,6/c/6cf3239b24d2fb2717877034eac71761834faa45
 Y
 )src/Competitions/DBS/findMinimumCost.java,3/f/3fa95d3757cff95a9531ab0e778a81839e8fade2
+d
+4src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java,5/c/5c2f9250db0f24c99890f7a7fe777034d11b768a
