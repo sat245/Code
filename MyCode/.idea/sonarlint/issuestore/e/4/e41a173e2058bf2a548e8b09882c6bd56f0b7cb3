@@ -1,6 +1,4 @@
 
-Nsquid:S1481"2Remove this unused "treeRootNode2" local variable.(Ç…Ã®8Ò‰∫ÍÒ,
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‹µÇ∞
 M
 squid:S106"9Replace this use of System.out or System.err by a logger.(„•èæ
-]squid:S1854"ARemove this useless assignment to local variable "treeRootNode2".(Ç…Ã®8Ò‰∫ÍÒ,
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‹µÇ∞

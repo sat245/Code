@@ -8,7 +8,9 @@ public class MaxDepth {
 
         treeRootNode.data=1;
         treeRootNode1.data=2;
+        treeRootNode2.data=3;
         treeRootNode.left=treeRootNode1;
+        treeRootNode1.right=treeRootNode2;
 
         System.out.println("((()))"+MaxDepth.depth(treeRootNode));
     }
