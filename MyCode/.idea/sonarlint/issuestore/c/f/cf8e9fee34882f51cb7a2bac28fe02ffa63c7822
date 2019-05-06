@@ -1,0 +1,21 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(†∏Æ˛
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(◊·±Ö˚ˇˇˇˇ
+Dsquid:S00108")Either remove or fill this block of code.(Øß˚«¯ˇˇˇˇ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(◊Ä’≈˙ˇˇˇˇ
+?squid:S00108")Either remove or fill this block of code.(∞Ú“¨
+Qsquid:S2589"7Remove this expression which always evaluates to "true"(◊·±Ö˚ˇˇˇˇ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¢µ¨˛ˇˇˇˇ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(˛⁄ã”
+4squid:S1640"Convert this Map to an EnumMap.(“˘‰É
+=squid:S1604"(Make this anonymous inner class a lambda(Ø¯∞µ
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(®»µë
+Ysquid:S2147"DCombine this catch with the one at line 52, which has the same body.(∞Ú“¨
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–∫î¶
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸êáº˘ˇˇˇˇ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(üÅù∏

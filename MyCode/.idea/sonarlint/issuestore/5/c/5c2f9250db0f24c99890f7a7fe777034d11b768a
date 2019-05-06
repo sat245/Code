@@ -1,0 +1,10 @@
+
+Asquid:S1659" Declare "aR" on a separate line.(õ†ô…ÿÿÿÿÿ8ÛõÊ»™-
+Asquid:S1659" Declare "bL" on a separate line.(õ†ô…ÿÿÿÿÿ8­Î£»™-
+squid:S1319"nThe type of the "arr" object should be an interface such as "List" rather than the implementation "ArrayList".(–Š™€úÿÿÿÿ8±»»™-
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(½µšøÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…Áœúÿÿÿÿ8ÿ§‡½™-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ñÀÌıÿÿÿÿ8¶åú»™-
+Asquid:S1659" Declare "bR" on a separate line.(õ†ô…ÿÿÿÿÿ8­Î£»™-
+@squid:S1659"Declare "j" on a separate line.(Ê‡©’øÿÿÿÿ8‰íõ»™-

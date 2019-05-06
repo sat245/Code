@@ -1,0 +1,16 @@
+
+Wsquid:S1854"6Remove this useless assignment to local variable "e2".(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+Dsquid:S1604"(Make this anonymous inner class a lambda(ÇÀ‰»8Ç¡ìğ–-
+Hsquid:S1481"'Remove this unused "e2" local variable.(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(‰ñû›üÿÿÿÿ
+Hsquid:S1481"'Remove this unused "e1" local variable.(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ë•Üÿ
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£ëŠ8¸Ëâğ–-
+Asquid:S1659" Declare "e3" on a separate line.(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+Wsquid:S1854"6Remove this useless assignment to local variable "e1".(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ªµ08¶ç‘ñ–-
+Hsquid:S1481"'Remove this unused "e3" local variable.(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+Wsquid:S1854"6Remove this useless assignment to local variable "e3".(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠóÆûÿÿÿÿ8ë¶Îğ–-
+Asquid:S1659" Declare "e2" on a separate line.(¾àÔ‡úÿÿÿÿ8¬ªĞğ–-

@@ -1,0 +1,6 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(•³ÇĞùÿÿÿÿ
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(­i
+Qsquid:UselessImportCheck"0Remove this unused import 'LinkedList.ListNode'.(Š¸õ
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø

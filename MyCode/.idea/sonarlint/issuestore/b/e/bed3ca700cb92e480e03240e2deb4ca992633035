@@ -1,0 +1,9 @@
+
+Ç squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÃÇàÃ
+6squid:S1659"!Declare "len" on a separate line.(ªÔ∫§
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»√ÓÀ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê®§ö¯ˇˇˇˇ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(‚ú ì˝ˇˇˇˇ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ŸÂÓö
+Ssquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ñç€“

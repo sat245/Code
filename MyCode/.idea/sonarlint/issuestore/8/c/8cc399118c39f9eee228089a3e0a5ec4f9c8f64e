@@ -1,0 +1,6 @@
+
+Msquid:S1197"8Move the array designator from the variable to the type.(Μ
+Rsquid:S1197"8Move the array designator from the variable to the type.(±°χωÿÿÿÿÿ
+Bsquid:S1481"(Remove this unused "res" local variable.(±°χωÿÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "res".(±°χωÿÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ωεξ

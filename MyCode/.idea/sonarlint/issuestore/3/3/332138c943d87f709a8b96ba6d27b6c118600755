@@ -1,0 +1,5 @@
+
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(·«¶¾úÿÿÿÿ
+}squid:UselessImportCheck"VRemove this unused import 'javax.xml.bind.annotation.adapters.CollapsedStringAdapter'.(Ó‚—ùÿÿÿÿ
+=squid:S1604"(Make this anonymous inner class a lambda(ĞÌœ–
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(­i
