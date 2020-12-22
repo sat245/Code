@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by i318862 on 04/11/17.
+ * Created by satyam mishra, Data Structure on 04/11/17.
  */
 public class MaxDistance {
     public static void main(String [] args) {

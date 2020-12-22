@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by i318862 on 10/01/18.
+ * Created by satyam mishra, Data Structure on 10/01/18.
  */
 public class Numrage {
     public static void main(String [] args){

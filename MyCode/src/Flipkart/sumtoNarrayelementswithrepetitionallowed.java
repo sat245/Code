@@ -1,7 +1,7 @@
 package Flipkart;
 
 /**
- * Created by i318862 on 07/02/18.
+ * Created by satyam mishra, Data Structure on 07/02/18.
  */
 public class sumtoNarrayelementswithrepetitionallowed {
 

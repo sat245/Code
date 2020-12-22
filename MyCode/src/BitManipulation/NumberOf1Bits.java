@@ -1,7 +1,7 @@
 package BitManipulation;
 
 /**
- * Created by i318862 on 22/01/18.
+ * Created by satyam mishra, Data Structure on 22/01/18.
  */
 public class NumberOf1Bits {
     public static void main(String [] args){

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by i318862 on 11/12/17.
+ * Created by satyam mishra, Data Structure on 11/12/17.
  */
 public class IntegerToRoman {
     public static void main(String [] args){

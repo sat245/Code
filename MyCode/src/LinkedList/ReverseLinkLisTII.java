@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 19/01/18.
+ * Created by satyam mishra, Data Structure on 19/01/18.
  */
 public class ReverseLinkLisTII {
 

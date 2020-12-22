@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by i318862 on 09/12/17.
+ * Created by satyam mishra, Data Structure on 09/12/17.
  */
 public class CompareVersionNumbers {
     public static void main(String [] args){

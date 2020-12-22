@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Created by i318862 on 09/12/17.
+ * Created by satyam mishra, Data Structure on 09/12/17.
  */
 class NewDataStructureTrie {
     public static void main(String args[] ) throws Exception {

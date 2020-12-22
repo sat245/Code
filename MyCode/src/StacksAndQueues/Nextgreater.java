@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 /**
- * Created by i318862 on 04/02/18.
+ * Created by satyam mishra, Data Structure on 04/02/18.
  */
 public class Nextgreater {
     public static ArrayList<Integer> nextGreater(ArrayList<Integer> A) {

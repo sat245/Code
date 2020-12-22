@@ -3,7 +3,7 @@ package Math;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 10/11/17.
+ * Created by satyam mishra, Data Structure on 10/11/17.
  */
 public class PrimeSum {
     public static void main(String [] args){

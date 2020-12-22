@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 29/06/17.
+ * Created by satyam mishra, Data Structure on 29/06/17.
  */
 public class Flip {
     public static ArrayList<Integer> flip(String A) {

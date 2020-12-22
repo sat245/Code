@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by i318862 on 05/02/18.
+ * Created by satyam mishra, Data Structure on 05/02/18.
  */
 public class Subset {
 

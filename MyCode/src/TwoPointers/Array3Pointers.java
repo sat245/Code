@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by i318862 on 13/12/17.
+ * Created by satyam mishra, Data Structure on 13/12/17.
  */
 public class Array3Pointers {
     public static void main(String [] args){

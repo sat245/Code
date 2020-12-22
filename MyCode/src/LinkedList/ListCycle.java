@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 21/01/18.
+ * Created by satyam mishra, Data Structure on 21/01/18.
  */
 public class ListCycle {
     public static void main(String[] args) {

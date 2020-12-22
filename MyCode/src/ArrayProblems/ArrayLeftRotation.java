@@ -1,7 +1,7 @@
 package ArrayProblems;
 
 /**
- * Created by i318862 on 27/01/18.
+ * Created by satyam mishra, Data Structure on 27/01/18.
  */
 
 import java.util.ArrayList;

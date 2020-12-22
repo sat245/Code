@@ -1,7 +1,7 @@
 package THREADING;
 
 /**
- * Created by i318862 on 20/04/18.
+ * Created by satyam mishra, Data Structure on 20/04/18.
  */
 public class Trial extends Thread{
         public void run(){

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by i318862 on 13/12/17.
+ * Created by satyam mishra, Data Structure on 13/12/17.
  */
 public class MaxContinuousSeriesof1s {
 

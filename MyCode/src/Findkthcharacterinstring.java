@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by i318862 on 29/10/17.
+ * Created by satyam mishra, Data Structure on 29/10/17.
  */
 public class Findkthcharacterinstring {
 

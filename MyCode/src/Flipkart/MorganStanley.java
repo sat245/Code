@@ -1,7 +1,7 @@
 package Flipkart;
 
 /**
- * Created by i318862 on 22/04/18.
+ * Created by satyam mishra, Data Structure on 22/04/18.
  */
 public class MorganStanley {
     public static void main(String [] args){

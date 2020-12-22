@@ -3,7 +3,7 @@ package StringProblems;
 import java.math.BigInteger;
 
 /**
- * Created by i318862 on 12/12/17.
+ * Created by satyam mishra, Data Structure on 12/12/17.
  */
 public class PowerOf2 {
     public static void main(String [] args){

@@ -5,7 +5,7 @@ import java.util.Map;
 import static javafx.application.Platform.exit;
 
 /**
- * Created by i318862 on 12/11/17.
+ * Created by satyam mishra, Data Structure on 12/11/17.
  */
 public class ExceColumnTitle {
     public static void main (String [] args) {

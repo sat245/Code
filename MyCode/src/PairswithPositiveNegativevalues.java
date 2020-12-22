@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by i318862 on 28/10/17.
+ * Created by satyam mishra, Data Structure on 28/10/17.
  */
 public class PairswithPositiveNegativevalues {
     public static void main (String[] args) {

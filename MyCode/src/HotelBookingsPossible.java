@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.Comparator;
 
 /**
- * Created by i318862 on 03/11/17.
+ * Created by satyam mishra, Data Structure on 03/11/17.
  */
 public class HotelBookingsPossible {
     public static void main(String [] args) {

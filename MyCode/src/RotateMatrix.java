@@ -3,7 +3,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by i318862 on 05/11/17.
+ * Created by satyam mishra, Data Structure on 05/11/17.
  */
 public class RotateMatrix {
     static int iRow=0,iCol=0,fRow=0,fCol=0;

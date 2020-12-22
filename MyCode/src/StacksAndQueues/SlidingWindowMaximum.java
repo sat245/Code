@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by i318862 on 26/01/18.
+ * Created by satyam mishra, Data Structure on 26/01/18.
  */
 public class SlidingWindowMaximum {
     public static void main(String[] args) {

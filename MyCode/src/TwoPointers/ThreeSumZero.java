@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by i318862 on 12/12/17.
+ * Created by satyam mishra, Data Structure on 12/12/17.
  */
 public class ThreeSumZero {
     public static void main(String [] args){

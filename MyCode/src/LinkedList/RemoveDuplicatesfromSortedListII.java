@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 18/01/18.
+ * Created by satyam mishra, Data Structure on 18/01/18.
  */
 public class RemoveDuplicatesfromSortedListII {
     public static void main(String [] args) {

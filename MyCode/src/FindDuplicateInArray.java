@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by i318862 on 05/11/17.
+ * Created by satyam mishra, Data Structure on 05/11/17.
  */
 public class FindDuplicateInArray {
     public static void main(String [] args) {

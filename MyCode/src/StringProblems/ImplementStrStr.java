@@ -1,7 +1,7 @@
 package StringProblems;
 
 /**
- * Created by i318862 on 09/12/17.
+ * Created by satyam mishra, Data Structure on 09/12/17.
  */
 public class ImplementStrStr {
     public static void main(String[] args) {

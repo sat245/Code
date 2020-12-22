@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.StringJoiner;
 
 /**
- * Created by i318862 on 14/12/17.
+ * Created by satyam mishra, Data Structure on 14/12/17.
  */
 public class ContainerWithMostWater {
     public static void main(String [] args){

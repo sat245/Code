@@ -1,5 +1,5 @@
 /**
- * Created by i318862 on 01/08/17.
+ * Created by satyam mishra, Data Structure on 01/08/17.
  */
 public class PERMUTATIONWITHREPETITION {
 

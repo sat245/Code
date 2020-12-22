@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by i318862 on 23/01/18.
+ * Created by satyam mishra, Data Structure on 23/01/18.
  */
 public class SingleNumberII {
     public static void main(String [] args){

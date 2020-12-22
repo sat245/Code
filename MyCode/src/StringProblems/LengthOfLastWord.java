@@ -1,7 +1,7 @@
 package StringProblems;
 
 /**
- * Created by i318862 on 10/12/17.
+ * Created by satyam mishra, Data Structure on 10/12/17.
  */
 public class LengthOfLastWord {
     public static void main(String[] args){

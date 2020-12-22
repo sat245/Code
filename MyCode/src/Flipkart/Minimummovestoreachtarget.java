@@ -1,7 +1,7 @@
 package Flipkart;
 
 /**
- * Created by i318862 on 06/02/18.
+ * Created by satyam mishra, Data Structure on 06/02/18.
  */
 public class Minimummovestoreachtarget {
     public static void main(String [] args){

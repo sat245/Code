@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * Created by i318862 on 21/06/17.
+ * Created by satyam mishra, Data Structure on 21/06/17.
  */
 public class maxSum {
 

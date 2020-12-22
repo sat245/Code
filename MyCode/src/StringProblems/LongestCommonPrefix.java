@@ -3,7 +3,7 @@ package StringProblems;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 06/12/17.
+ * Created by satyam mishra, Data Structure on 06/12/17.
  */
 public class LongestCommonPrefix {
 

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * Created by i318862 on 02/11/17.
+ * Created by satyam mishra, Data Structure on 02/11/17.
  */
 public class WaveArray {
     public static void main(String [] args) {

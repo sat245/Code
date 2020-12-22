@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by i318862 on 14/12/17.
+ * Created by satyam mishra, Data Structure on 14/12/17.
  */
 public class IntersectionOfSortedArrays {
     public ArrayList<Integer> intersect(final List<Integer> a, final List<Integer> b) {

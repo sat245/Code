@@ -3,7 +3,7 @@ package Binary;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 15/12/17.
+ * Created by satyam mishra, Data Structure on 15/12/17.
  */
 public class SquareRootofInteger {
 

@@ -1,7 +1,7 @@
 package Competitions.DBS;
 
 /**
- * Created by i318862 on 11/03/19.
+ * Created by satyam mishra, Data Structure on 11/03/19.
  */
 public class minimum {
 

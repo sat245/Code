@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 04/02/18.
+ * Created by satyam mishra, Data Structure on 04/02/18.
  */
 public class Subtract {
     public static ListNode subtract(ListNode A) {

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by i318862 on 01/03/18.
+ * Created by satyam mishra, Data Structure on 01/03/18.
  */
 public class LargestContinuousSequenceZeroSum {
     public static ArrayList<Integer> lszero(ArrayList<Integer> A) {

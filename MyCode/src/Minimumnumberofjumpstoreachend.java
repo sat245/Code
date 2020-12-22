@@ -1,5 +1,5 @@
 /**
- * Created by i318862 on 03/07/17.
+ * Created by satyam mishra, Data Structure on 03/07/17.
  */
 public class Minimumnumberofjumpstoreachend {
     static int minJumps(int arr[], int l, int h)

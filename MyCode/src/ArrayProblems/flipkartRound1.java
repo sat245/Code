@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 
 /**
- * Created by i318862 on 27/01/18.
+ * Created by satyam mishra, Data Structure on 27/01/18.
  */
 public class flipkartRound1 {
     public static void main(String args[] ) throws Exception {

@@ -3,7 +3,7 @@ package Backtracking;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 26/02/18.
+ * Created by satyam mishra, Data Structure on 26/02/18.
  */
 public class Combination {
 

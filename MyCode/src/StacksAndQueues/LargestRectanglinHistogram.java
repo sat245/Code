@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 /**
- * Created by i318862 on 25/01/18.
+ * Created by satyam mishra, Data Structure on 25/01/18.
  */
 public class LargestRectanglinHistogram {
 

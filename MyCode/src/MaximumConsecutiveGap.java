@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Created by i318862 on 09/11/17.
+ * Created by satyam mishra, Data Structure on 09/11/17.
  */
 public class MaximumConsecutiveGap {
     public static void main(String [] args) {

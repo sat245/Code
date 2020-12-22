@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.regex.Matcher;
 
 /**
- * Created by i318862 on 13/12/17.
+ * Created by satyam mishra, Data Structure on 13/12/17.
  */
 public class CountingTriangles {
     public static void main(String [] args){

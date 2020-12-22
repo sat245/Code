@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 01/11/17.
+ * Created by satyam mishra, Data Structure on 01/11/17.
  */
 public class KthRowofPascalsTriangle {
 

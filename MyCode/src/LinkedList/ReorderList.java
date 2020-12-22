@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 20/01/18.
+ * Created by satyam mishra, Data Structure on 20/01/18.
  */
 public class ReorderList {
     public static void main(String[] args) {

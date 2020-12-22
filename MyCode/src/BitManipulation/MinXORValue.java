@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * Created by i318862 on 22/01/18.
+ * Created by satyam mishra, Data Structure on 22/01/18.
  */
 public class MinXORValue {
 

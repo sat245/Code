@@ -3,7 +3,7 @@ package Math;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 09/11/17.
+ * Created by satyam mishra, Data Structure on 09/11/17.
  */
 public class Factors {
     public static void main(String [] args) {

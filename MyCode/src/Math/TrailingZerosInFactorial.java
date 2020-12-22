@@ -1,7 +1,7 @@
 package Math;
 
 /**
- * Created by i318862 on 14/11/17.
+ * Created by satyam mishra, Data Structure on 14/11/17.
  */
 public class TrailingZerosInFactorial {
     public static void main(String [] args) {

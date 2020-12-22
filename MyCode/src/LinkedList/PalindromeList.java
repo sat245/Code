@@ -1,7 +1,7 @@
 package LinkedList;
 
 /**
- * Created by i318862 on 17/01/18.
+ * Created by satyam mishra, Data Structure on 17/01/18.
  */
 public class PalindromeList {
     public static void main(String [] args){

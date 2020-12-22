@@ -3,7 +3,7 @@ package TwoPointers;
 import java.util.ArrayList;
 
 /**
- * Created by i318862 on 14/12/17.
+ * Created by satyam mishra, Data Structure on 14/12/17.
  */
 public class SortbyColorBook {
     public void sortColors(ArrayList<Integer> a) {

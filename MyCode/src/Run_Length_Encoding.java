@@ -1,5 +1,5 @@
 /**
- * Created by i318862 on 28/07/17.
+ * Created by satyam mishra, Data Structure on 28/07/17.
  */
 public class Run_Length_Encoding {
 

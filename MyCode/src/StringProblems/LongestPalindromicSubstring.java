@@ -1,7 +1,7 @@
 package StringProblems;
 
 /**
- * Created by i318862 on 08/12/17.
+ * Created by satyam mishra, Data Structure on 08/12/17.
  */
 public class LongestPalindromicSubstring {
     public static void main(String [] args){

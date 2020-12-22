@@ -1,7 +1,7 @@
 package Math;
 
 /**
- * Created by i318862 on 13/11/17.
+ * Created by satyam mishra, Data Structure on 13/11/17.
  */
 public class Reverseinteger {
 

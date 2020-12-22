@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * Created by i318862 on 11/12/17.
+ * Created by satyam mishra, Data Structure on 11/12/17.
  */
 public class BeautifulWayToInput {
     public static void main(String args[] ) throws Exception {

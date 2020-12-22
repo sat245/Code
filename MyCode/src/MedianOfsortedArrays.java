@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Created by i318862 on 18/06/17.
+ * Created by satyam mishra, Data Structure on 18/06/17.
  */
 public class MedianOfsortedArrays {
 

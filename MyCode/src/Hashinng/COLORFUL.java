@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by i318862 on 01/03/18.
+ * Created by satyam mishra, Data Structure on 01/03/18.
  */
 public class COLORFUL {
 

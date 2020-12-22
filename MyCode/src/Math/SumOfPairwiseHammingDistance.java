@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by i318862 on 10/11/17.
+ * Created by satyam mishra, Data Structure on 10/11/17.
  */
 public class SumOfPairwiseHammingDistance {
     public static void main(String [] args) {

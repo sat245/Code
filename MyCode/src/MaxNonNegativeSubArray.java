@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by i318862 on 19/06/17.
+ * Created by satyam mishra, Data Structure on 19/06/17.
  */
 public class MaxNonNegativeSubArray {
     public static ArrayList<Integer> maxset(ArrayList<Integer> a) {

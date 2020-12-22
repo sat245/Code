@@ -3,7 +3,7 @@ package LinkedList;
 import sun.jvm.hotspot.debugger.linux.x86.LinuxX86CFrame;
 
 /**
- * Created by i318862 on 21/01/18.
+ * Created by satyam mishra, Data Structure on 21/01/18.
  */
 public class Kreverselinkedlist {
     public static ListNode reverseList(ListNode A, int B) {
