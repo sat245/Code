@@ -1,6 +1,8 @@
 package Competitions.Amex;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class Substring {
     public static void findSubstrings(String s) {

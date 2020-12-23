@@ -25,13 +25,9 @@ package TreeProbblems;
 //        Note : If 2 Tree Nodes shares the same vertical level then the one with lesser depth will come first.
 
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 import java.util.TreeMap;
 
 public class VerticalTraversal {

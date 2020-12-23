@@ -1,6 +1,5 @@
 package Competitions.Visa;
 
-import javax.xml.bind.annotation.adapters.CollapsedStringAdapter;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;

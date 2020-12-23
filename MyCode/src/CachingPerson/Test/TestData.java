@@ -1,7 +1,5 @@
 package CachingPerson.Test;
 
-import CachingPerson.CachingService.Cache;
-import CachingPerson.CachingService.SimpleMapBasedCache;
 import CachingPerson.Controller.Controller;
 import CachingPerson.DTO.Person;
 

@@ -1,11 +1,6 @@
 package ArrayProblems;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.regex.Matcher;
+import java.util.*;
 
 /**
  * Created by satyam mishra, Data Structure on 27/01/18.

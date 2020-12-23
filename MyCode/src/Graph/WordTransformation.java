@@ -55,12 +55,7 @@ package Graph;
 //        spice stock 4
 //        may pod 3
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
  class WordTransformation {
 

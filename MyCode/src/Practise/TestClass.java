@@ -3,8 +3,9 @@ package Practise;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.*;
-import java.lang.Integer;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.StringTokenizer;
 
 class TestClass {
 

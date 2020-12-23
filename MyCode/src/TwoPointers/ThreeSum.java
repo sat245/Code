@@ -1,7 +1,6 @@
 package TwoPointers;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 
 /**
  * Created by satyam mishra, Data Structure on 12/12/17.

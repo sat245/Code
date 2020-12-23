@@ -3,11 +3,8 @@ package Random;
 /**
  * Created by satyam mishra, Data Structure on 27/01/18.
  */
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+
+import java.util.Scanner;
 
 public class flipkart {
     public static void main(String args[] ) throws Exception {

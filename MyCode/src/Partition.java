@@ -1,5 +1,4 @@
 // A recursive Java solution for partition problem
-import java.io.*;
 
 class Partition {
     // A utility function that returns true if there is a
