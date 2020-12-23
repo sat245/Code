@@ -2,8 +2,6 @@ package TwoPointers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
 
 /**
  * Created by satyam mishra, Data Structure on 12/12/17.

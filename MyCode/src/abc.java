@@ -3,13 +3,6 @@
  */
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-
-import static jdk.nashorn.internal.objects.NativeArray.sort;
-
-
 public class abc {
    public static  void arrayintersection(int a[],int b[],int n,int m){
 //        Arrays.sort(a);

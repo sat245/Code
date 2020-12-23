@@ -37,14 +37,7 @@ package Competitions;
 //
 //        Note: Your code should be able to convert the sample input into the sample output. However, this is not enough to pass the challenge, because the code will be run on multiple test cases. Therefore, your code must solve this problem statement.
 
-import jdk.nashorn.internal.ir.WhileNode;
-
-import java.io.CharConversionException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 public class OptimalConnectivity {
     public static void main(String args[] ) throws Exception {

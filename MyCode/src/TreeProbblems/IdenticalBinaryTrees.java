@@ -1,9 +1,5 @@
 package TreeProbblems;
 
-import com.sun.org.apache.regexp.internal.RE;
-
-import javax.swing.tree.TreeNode;
-
 public class IdenticalBinaryTrees {
     public static int isSameTree(BalancedTreeNode A, BalancedTreeNode B) {
         if(isSame(A,B)){

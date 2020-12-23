@@ -45,13 +45,7 @@ package Graph;
 //        0
 //        2 1
 
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
-import java.util.Queue;
-import java.util.Scanner;
+import java.util.*;
 
 class SpreadigTheNews {
 

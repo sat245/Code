@@ -1,8 +1,5 @@
 package Competitions.Visa;
 
-import LinkedList.ListNode;
-
-
 import java.io.IOException;
 
 public class LinkedListDelete {

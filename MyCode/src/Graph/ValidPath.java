@@ -1,13 +1,6 @@
 package Graph;
 
-import sun.plugin.dom.core.CoreConstants;
-
-import java.security.Key;
-import java.util.ArrayDeque;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Queue;
+import java.util.*;
 
 public class ValidPath {
     public static String solve(int A, int B, int C, int D, ArrayList<Integer> E, ArrayList<Integer> F) {

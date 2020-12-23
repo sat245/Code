@@ -2,7 +2,6 @@ package Graph;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.List;
 
 public class SmallestsequencewithgivenPrimes {
     public static  ArrayList<Integer> solve(int A, int B, int C, int D) {

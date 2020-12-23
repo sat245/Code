@@ -1,12 +1,6 @@
 package BitManipulation;
 
-import LinkedList.ListNode;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by satyam mishra, Data Structure on 23/01/18.

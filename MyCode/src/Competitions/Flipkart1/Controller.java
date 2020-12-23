@@ -1,12 +1,8 @@
 package Competitions.Flipkart1;
 
-import com.sun.org.apache.bcel.internal.generic.GOTO;
-import sun.awt.geom.AreaOp;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import java.util.Stack;
 
 public class Controller {
     static Double finalMArks = 0.0;

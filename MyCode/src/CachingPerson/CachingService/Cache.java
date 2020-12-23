@@ -2,9 +2,6 @@ package CachingPerson.CachingService;
 
 import CachingPerson.DTO.Person;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public abstract class Cache {
 
 

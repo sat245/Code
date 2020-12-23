@@ -1,21 +1,332 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b34bb91-b1a1-491e-a9bf-6f5fa9b5d3dc" name="Default" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/Controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/DTO/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/Test/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competitions/Amex/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competitions/LendingCart/ProfitSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicPrograming/WaystoDecode.java" afterDir="false" />
+    <list default="true" id="9b34bb91-b1a1-491e-a9bf-6f5fa9b5d3dc" name="Default" comment="local changes">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/satyam_mishra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facebook/LengthOfLongestSubstrin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/AntiDiagonals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/AntiDiagonals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ArrayProblems/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ArrayProblems/ABC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ArrayProblems/ArrayLeftRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ArrayProblems/ArrayLeftRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ArrayProblems/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ArrayProblems/LongestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ArrayProblems/SwapBloclsOfArrayWithoutSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ArrayProblems/SwapBloclsOfArrayWithoutSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ArrayProblems/flipkartRound1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ArrayProblems/flipkartRound1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Ascii.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Ascii.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Backtracking/Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Backtracking/Combination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Backtracking/Subset.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Backtracking/Subset.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Binary/PainterPartitionProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Binary/PainterPartitionProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Binary/SquareRootofInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Binary/SquareRootofInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/BitManipulation/MinXORValue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/BitManipulation/MinXORValue$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/BitManipulation/MinXORValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/BitManipulation/MinXORValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/BitManipulation/NumberOf1Bits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/BitManipulation/NumberOf1Bits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/BitManipulation/ReverseBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/BitManipulation/ReverseBits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/BitManipulation/SingleNumberII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/BitManipulation/SingleNumberII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/ADESSA/UniquenessViolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/ADESSA/UniquenessViolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/AverageProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/AverageProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/BeautifulNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/BeautifulNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/CityTour.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/CityTour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/CodeChef/FancyQuotes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/CodeChef/FancyQuotes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/findMinimumCost$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/findMinimumCost$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/findMinimumCost.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/findMinimumCost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/minimum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/DBS/minimum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Expedia/CountTheSolutions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Expedia/CountTheSolutions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Expedia/NotebookRevision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Expedia/NotebookRevision.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/AutoAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/AutoAssignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/LowestCostStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/LowestCostStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/RatingBasedStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/RatingBasedStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Restaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/Restaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/StrategyName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/StrategyName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnDifficulty$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnDifficulty$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnDifficulty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnDifficulty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnSubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnSubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnTopic$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnTopic$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnTopic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/BasedOnTopic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Controller$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Controller$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/CreateQuestion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/CreateQuestion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Criterias.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Criterias.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Difficulty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Difficulty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/QuestionBankOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/QuestionBankOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/QuestionPaper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/QuestionPaper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Flipkart1/Topic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/GS/ContinuousSubSequenceSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/GS/ContinuousSubSequenceSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/GS/SecureMyConversation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/GS/SecureMyConversation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Hackerrank/FirstEvenLongestWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Hackerrank/FirstEvenLongestWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/ChargedUPArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/ChargedUPArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/LargestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/LargestSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/PlotTheCurve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Lenskart/PlotTheCurve.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/MaximizeIt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/MaximizeIt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Ninjacart/NumberConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Ninjacart/NumberConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/OptimalConnectivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/OptimalConnectivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/PlayingWithGraphs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/PlayingWithGraphs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/RestoreTeSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/RestoreTeSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/Coordinateachiveable$a.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/Coordinateachiveable$a.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/Coordinateachiveable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/Coordinateachiveable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/FindNumberOfDistinctPairThatSums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/FindNumberOfDistinctPairThatSums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/HowManyNumbInFirstArrIsSmalThnSecArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Syncron/HowManyNumbInFirstArrIsSmalThnSecArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/VMWare/DiscountedPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/VMWare/DiscountedPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/VMWare/VowelSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/VMWare/VowelSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/Booking$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/Booking$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/Booking.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/Booking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/CustomerServiceCapacity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/CustomerServiceCapacity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/CustomerServiceCapacity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/CustomerServiceCapacity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/LinkedListDelete.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/LinkedListDelete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/QueryString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/QueryString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/SinglyLinkedListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/SinglyLinkedListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/SubArrayProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/SubArrayProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/ThePerfectTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Visa/ThePerfectTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/Wisen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/Wisen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/kPrimeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/kPrimeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Competitions/societeGenerale/Stockroom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/DynamicPrograming/LongestIncDecSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/DynamicPrograming/LongestIncDecSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/FindDuplicateInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/FindDuplicateInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/FindKthCharInConcatenatedString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/FindKthCharInConcatenatedString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Findkthcharacterinstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Findkthcharacterinstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/FirstMissingInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/FirstMissingInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Flip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Flip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Flipkart/Minimummovestoreachtarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Flipkart/Minimummovestoreachtarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Flipkart/MorganStanley.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Flipkart/MorganStanley.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Flipkart/WordWrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Flipkart/WordWrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Flipkart/sumtoNarrayelementswithrepetitionallowed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Flipkart/sumtoNarrayelementswithrepetitionallowed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/ForTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/ForTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/SmallestsequencewithgivenPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/SmallestsequencewithgivenPrimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/SpreadigTheNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/SpreadigTheNews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/UnlockTheLock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/UnlockTheLock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/ValidPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/ValidPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/WordTransformation$x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/WordTransformation$x.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/WordTransformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/WordTransformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/coordinate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/coordinate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Graph/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Graph/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Hashinng/COLORFUL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Hashinng/COLORFUL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Hashinng/LargestContinuousSequenceZeroSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Hashinng/LargestContinuousSequenceZeroSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible$obj$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible$obj$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible$obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible$obj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/HotelBookingsPossible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/KthRowofPascalsTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/KthRowofPascalsTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LargestContiguousSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LargestContiguousSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LargestNumber$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LargestNumber$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LargestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LargestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/AddTwoLinkedListWithRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/AddTwoLinkedListWithRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/AddTwoNumbersAsLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/AddTwoNumbersAsLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/Kreverselinkedlist.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/Kreverselinkedlist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/ListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/ListCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/PalindromeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/PalindromeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/RemoveDuplicatesFromSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/RemoveDuplicatesFromSortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/RemoveDuplicatesfromSortedListII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/RemoveDuplicatesfromSortedListII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/ReorderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/ReorderList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/ReverseLinkLisTII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/ReverseLinkLisTII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/RotateList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/RotateList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LinkedList/Subtract.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LinkedList/Subtract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/LongestSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/LongestSubsequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MapUtil$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MapUtil$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MapUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MapUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/ExceColumnTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/ExceColumnTitle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/ExceLColumnNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/ExceLColumnNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/Factors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/Factors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/NumbersOfLengthNAndValueLessThanK.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/NumbersOfLengthNAndValueLessThanK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/PRETTYPRINT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/PRETTYPRINT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/PalindromeInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/PalindromeInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/PrimeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/PrimeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/Reverseinteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/Reverseinteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/SortedPermutationRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/SortedPermutationRank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/SumOfPairwiseHammingDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/SumOfPairwiseHammingDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Math/TrailingZerosInFactorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Math/TrailingZerosInFactorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MaxDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MaxDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MaxNonNegativeSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MaxNonNegativeSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MaximumConsecutiveGap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MaximumConsecutiveGap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MaximumTipCalculator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MaximumTipCalculator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MaximumTipCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MaximumTipCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MedianOfsortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MedianOfsortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Minimumnumberofjumpstoreachend.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Minimumnumberofjumpstoreachend.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/Inconsistency/IncrementCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/Inconsistency/IncrementCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/Inconsistency/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/Inconsistency/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/ThreadSafety/HashMapProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/ThreadSafety/HashMapProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/ThreadSafety/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/ThreadSafety/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Notifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Notifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/SimplePojo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/SimplePojo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/MultiThreading/WaitNotify/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/NBy3RepeatNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/NBy3RepeatNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/NobleInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/NobleInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/PASCALTRIANGLE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/PASCALTRIANGLE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/PERMUTATIONWITHREPETITION.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/PERMUTATIONWITHREPETITION.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/PairswithPositiveNegativevalues.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/PairswithPositiveNegativevalues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Partition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Partition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/BestIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/BestIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/IndexBasedQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/IndexBasedQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/TestClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Practise/xy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Practise/xy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/PrintLIS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/PrintLIS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/BeautifulWayToInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/BeautifulWayToInput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/JavaShortCuts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/JavaShortCuts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/NewDataStructureTrie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/NewDataStructureTrie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/NumberOFZeroOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/NumberOFZeroOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/flipkart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/flipkart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Random/node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Random/node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Reverse_words_in_given_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Reverse_words_in_given_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/RotateMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/RotateMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/Run_Length_Encoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/Run_Length_Encoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/SpiralOrderMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/SpiralOrderMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/LargestRectanglinHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/LargestRectanglinHistogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/NearestSmallerElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/NearestSmallerElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/Nextgreater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/Nextgreater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/RedundantBraces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/RedundantBraces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/SimplifyDirectoryPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/SimplifyDirectoryPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/SlidingWindowMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StacksAndQueues/SlidingWindowMaximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/Atoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/Atoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/CompareVersionNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/CompareVersionNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/CountAndSay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/CountAndSay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/ImplementStrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/ImplementStrStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/IntegerToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/JustifiedText.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/JustifiedText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/LengthOfLastWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/LengthOfLastWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestPalindromicSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestPalindromicSubstring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestSubstringWithoutRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/MakeAStringPalindromic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/MakeAStringPalindromic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/Numrage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/Numrage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/PowerOf2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/PowerOf2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/ReverseTheString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/ReverseTheString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/StringProblems/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/StringProblems/RomanToInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/SubSetSumProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/SubSetSumProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/THREADING/Trial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/THREADING/Trial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BalancedBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BalancedBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BalancedTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BalancedTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BinaryTreeFromInorderAndPostorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/BinaryTreeFromInorderAndPostorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/IdenticalBinaryTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/IdenticalBinaryTrees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderTraversalOfCartesianTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderTraversalOfCartesianTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderTraversalWithoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InorderTraversalWithoutRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InvertTheBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/InvertTheBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/KtSmallestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/KtSmallestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/LeastCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/LeastCommonAncestor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/MaxDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/MaxDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/MinDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/MinDepth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PostorderTraversalWithoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PostorderTraversalWithoutRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PreOrderTraversalWitoutRecursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PreOrderTraversalWitoutRecursion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PrintPathSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/PrintPathSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/ShortestUniquePrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/ShortestUniquePrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SortedArrayToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SortedArrayToBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SumRootToLeafNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SumRootToLeafNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SymmetricBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/SymmetricBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/TreeRootNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/TreeRootNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/TwoSumBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/TwoSumBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/UnbalancedTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/UnbalancedTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/VerticalTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/VerticalTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TreeProbblems/ZigZagLevelOrderTraversalBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TreeProbblems/ZigZagLevelOrderTraversalBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/Array3Pointers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/Array3Pointers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/ContainerWithMostWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/ContainerWithMostWater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/CountingTriangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/CountingTriangles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/IntersectionOfSortedArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/IntersectionOfSortedArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/MaxContinuousSeriesof1s.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/MaxContinuousSeriesof1s.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/MaximumUnsortedSubarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/MaximumUnsortedSubarray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/MergeTwoSortedListsII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/MergeTwoSortedListsII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/RemoveDuplicatesfromSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/RemoveDuplicatesfromSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/RemoveElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/SortbyColorBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/SortbyColorBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/ThreeSumZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/ThreeSumZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/TwoPointers/sides.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/TwoPointers/sides.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/WaveArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/WaveArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/a1bc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/a1bc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/aaaa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/aaaa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/comp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/comp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/dp1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/dp1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/largestNumberThatCanBeFormed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/largestNumberThatCanBeFormed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/maxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/maxSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/obj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/x.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AntiDiagonals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AntiDiagonals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayProblems/flipkartRound1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayProblems/flipkartRound1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitManipulation/MinXORValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitManipulation/MinXORValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BitManipulation/SingleNumberII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitManipulation/SingleNumberII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CachingPerson/Test/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CachingPerson/Test/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Amex/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Amex/Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Flipkart/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Flipkart/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/GS/ContinuousSubSequenceSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/GS/ContinuousSubSequenceSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/OptimalConnectivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/OptimalConnectivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Visa/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Visa/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Visa/CustomerServiceCapacity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Visa/CustomerServiceCapacity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Visa/LinkedListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Visa/LinkedListDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/Visa/ThePerfectTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/Visa/ThePerfectTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstMissingInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FirstMissingInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/SmallestsequencewithgivenPrimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/SmallestsequencewithgivenPrimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/SpreadigTheNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/SpreadigTheNews.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/ValidPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/ValidPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/WordTransformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/WordTransformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HotelBookingsPossible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HotelBookingsPossible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/Kreverselinkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/Kreverselinkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Math/ExceColumnTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math/ExceColumnTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxNonNegativeSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxNonNegativeSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumTipCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaximumTipCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MedianOfsortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MedianOfsortedArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NBy3RepeatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NBy3RepeatNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NobleInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NobleInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PASCALTRIANGLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PASCALTRIANGLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Partition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Partition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practise/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practise/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintLIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintLIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random/BeautifulWayToInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/BeautifulWayToInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Random/flipkart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Random/flipkart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpiralOrderMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpiralOrderMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksAndQueues/SlidingWindowMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksAndQueues/SlidingWindowMaximum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringProblems/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringProblems/CountAndSay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/BinaryTreeFromInorderAndPostorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/BinaryTreeFromInorderAndPostorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/IdenticalBinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/IdenticalBinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/InvertTheBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/InvertTheBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/KtSmallestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/KtSmallestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/LeastCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/LeastCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/TreeRootNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/TreeRootNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/VerticalTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/VerticalTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeProbblems/ZigZagLevelOrderTraversalBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeProbblems/ZigZagLevelOrderTraversalBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ContainerWithMostWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/CountingTriangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/CountingTriangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TwoPointers/ThreeSumZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSumZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aaaa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aaaa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/largestNumberThatCanBeFormed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/largestNumberThatCanBeFormed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/maxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxSum.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,154 +359,6 @@
   <component name="FavoritesManager">
     <favorites_list name="MyCode" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/DTO/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#338#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/Controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/Test/TestData.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" selection-start-line="10" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/LendingCart/ProfitSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Notifier.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-              <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Waiter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/Service.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="43" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DynamicPrograming/WaystoDecode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Competitions/Amex/Substring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="67" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -207,151 +370,10 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>stack</find>
-      <find>queu</find>
-      <find>food</find>
-      <find>Item Price in double</find>
-      <find>start up</find>
-      <find>error..re</find>
-      <find>List is empty</find>
-      <find>Queue</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/Subject.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/Question.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/QuestionBankOperation.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/QuestionPaper.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/CreateQuestion.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/DBS/minimum.java" />
-        <option value="$PROJECT_DIR$/src/StringProblems/MakeAStringPalindromic.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/DBS/findMinimumCost.java" />
-        <option value="$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java" />
-        <option value="$PROJECT_DIR$/src/Random/JavaShortCuts.java" />
-        <option value="$PROJECT_DIR$/src/StringProblems/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/SinglyLinkedListNode.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/LinkedListDelete.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/SubArrayProduct.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/QueryString.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/Booking.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Visa/CustomerServiceCapacity.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Hackerrank/FirstEvenLongestWord.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Siemens/FindKthCharInConcatenatedString.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/VMWare/VowelSubString.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/WaitNotify/SimplePojo.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/WaitNotify/Waiter.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/Inconsistency/IncrementCount.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/Inconsistency/Service.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/WaitNotify/Service.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/WaitNotify/Notifier.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/ThreadSafety/HashMapProcessor.java" />
-        <option value="$PROJECT_DIR$/src/MultiThreading/ThreadSafety/Service.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Syncron/HowManyNumbInFirstArrIsSmalThnSecArr.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Syncron/Coordinateachiveable.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Syncron/FindNumberOfDistinctPairThatSums.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/DTO.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/Person.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/Controller/Controller.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/DTO/Person.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/Test/TestData.java" />
-        <option value="$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/LendingCart/ProfitSort.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java" />
-        <option value="$PROJECT_DIR$/src/DynamicPrograming/WaystoDecode.java" />
-        <option value="$PROJECT_DIR$/src/Competitions/Amex/Substring.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="963" />
-  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Competitions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Competitions" type="462c0819:PsiDirectoryNode" />
-              <item name="Amex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DynamicPrograming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
-              <item name="ThreadSafety" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiThreading" type="462c0819:PsiDirectoryNode" />
-              <item name="WaitNotify" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -367,7 +389,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -393,7 +415,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Substring">
+  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -506,13 +528,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProfitSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Competitions.LendingCart.ProfitSort" />
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringProblems.LongestSubstringWithoutRepeatingCharacters" />
       <module name="Code" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Competitions.LendingCart.*" />
+          <option name="PATTERN" value="StringProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -602,19 +624,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProfitSort" />
       <item itemvalue="Application.SmallestSubstring" />
       <item itemvalue="Application.WaystoDecode" />
       <item itemvalue="Application.Substring" />
+      <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
       <item itemvalue="JUnit.TestDataTest.fn" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="JUnit.TestDataTest.fn" />
         <item itemvalue="Application.Substring" />
         <item itemvalue="Application.WaystoDecode" />
         <item itemvalue="Application.SmallestSubstring" />
-        <item itemvalue="Application.ProfitSort" />
-        <item itemvalue="JUnit.TestDataTest.fn" />
       </list>
     </recent_temporary>
   </component>
@@ -640,6 +662,7 @@
       <workItem from="1558242474509" duration="179000" />
       <workItem from="1558988386279" duration="449000" />
       <workItem from="1559272699228" duration="3133000" />
+      <workItem from="1608661687912" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1556565721825</created>
@@ -648,68 +671,50 @@
       <option name="project" value="LOCAL" />
       <updated>1556565721826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setup local">
+      <created>1608661771628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608661771628</updated>
+    </task>
+    <task id="LOCAL-00003" summary="local changes">
+      <created>1608661809633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608661809633</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changing i31882 to name">
+      <created>1608661992803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608661992803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="TestDataTest_fn - 2019.05.10 at 21h 41m 58s.xml">
-      <configuration name="TestDataTest.fn" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestDataTest_fn - 2019.05.10 at 21h 43m 09s.xml">
-      <configuration name="TestDataTest.fn" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39941000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="958" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35531136" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="DB Browser" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Project Explorer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Job Explorer" order="7" />
-      <window_info id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21939954" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3926097" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.37182447" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="SonarLint" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
-      <window_info anchor="bottom" id="Console" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3290993" />
-      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="15" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Designer" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Maven" order="8" />
-      <window_info anchor="right" id="Database" order="9" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="setup local" />
+    <MESSAGE value="local changes" />
+    <MESSAGE value="changing i31882 to name" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing i31882 to name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -717,648 +722,540 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderTraversalWithoutRecursion.java</url>
           <line>52</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderTraversalWithoutRecursion.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderTraversalWithoutRecursion.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderTraversalWithoutRecursion.java</url>
           <line>53</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderRecursion.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PostorderTraversalWithoutRecursion.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PostorderTraversalWithoutRecursion.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PostorderTraversalWithoutRecursion.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PostorderTraversalWithoutRecursion.java</url>
           <line>55</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PreOrderTraversalWitoutRecursion.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/BalancedBinaryTree.java</url>
           <line>44</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LinkedList/AddTwoLinkedListWithRecursion.java</url>
           <line>75</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LinkedList/AddTwoLinkedListWithRecursion.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PathSum.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PrintPathSum.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PrintPathSum.java</url>
           <line>93</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PrintPathSum.java</url>
           <line>86</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/PrintPathSum.java</url>
           <line>10</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/SumRootToLeafNumbers.java</url>
           <line>4</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InorderTraversalOfCartesianTree.java</url>
           <line>45</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/SortedArrayToBST.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/LongestConsecutiveSequence.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/BinaryTreeFromInorderAndPostorder.java</url>
-          <line>53</line>
-          <properties />
+          <line>52</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/BinaryTreeFromInorderAndPostorder.java</url>
-          <line>12</line>
-          <properties />
+          <line>11</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/BinaryTreeFromInorderAndPostorder.java</url>
-          <line>29</line>
-          <properties />
+          <line>28</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/InvertTheBinaryTree.java</url>
-          <line>26</line>
-          <properties />
+          <line>25</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/ZigZagLevelOrderTraversalBT.java</url>
-          <line>76</line>
-          <properties />
+          <line>75</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/ZigZagLevelOrderTraversalBT.java</url>
-          <line>27</line>
-          <properties />
+          <line>26</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Event.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/MaximizeIt.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/TwoSumBinaryTree.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/TwoSumBinaryTree.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/LeastCommonAncestor.java</url>
-          <line>46</line>
-          <properties />
+          <line>45</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/LeastCommonAncestor.java</url>
-          <line>51</line>
-          <properties />
+          <line>50</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/LeastCommonAncestor.java</url>
-          <line>39</line>
-          <properties />
+          <line>38</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/FlattenBinaryTreetoLinkedList.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Wisen.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Wisen.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/AverageProduct.java</url>
           <line>87</line>
-          <properties />
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/AverageProduct.java</url>
           <line>64</line>
-          <properties />
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/RestoreTeSequence.java</url>
           <line>99</line>
-          <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/CityTour.java</url>
           <line>53</line>
-          <properties />
           <option name="timeStamp" value="97" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/ChessBoard.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/ChessBoard.java</url>
           <line>79</line>
-          <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/ChessBoard.java</url>
           <line>70</line>
-          <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/OptimalConnectivity.java</url>
-          <line>92</line>
-          <properties />
+          <line>85</line>
           <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Graph/SmallestsequencewithgivenPrimes.java</url>
-          <line>57</line>
-          <properties />
+          <line>56</line>
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Graph/ValidPath.java</url>
-          <line>17</line>
-          <properties />
+          <line>10</line>
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/BeautifulNumbers.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/GS/SecureMyConversation.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/GS/SecureMyConversation.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/CodeChef/FancyQuotes.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Expedia/NotebookRevision.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="113" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Expedia/NotebookRevision.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart/RatingBasedStrategy.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart/Restaurant.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="122" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java</url>
-          <line>41</line>
-          <properties />
+          <line>37</line>
           <option name="timeStamp" value="127" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/Factory.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="129" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java</url>
-          <line>78</line>
-          <properties />
+          <line>72</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java</url>
-          <line>16</line>
-          <properties />
+          <line>10</line>
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java</url>
-          <line>36</line>
-          <properties />
+          <line>30</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java</url>
-          <line>98</line>
-          <properties />
+          <line>92</line>
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnDifficulty.java</url>
-          <line>71</line>
-          <properties />
+          <line>65</line>
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java</url>
-          <line>43</line>
-          <properties />
+          <line>39</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/Controller.java</url>
-          <line>105</line>
-          <properties />
+          <line>101</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java</url>
-          <line>14</line>
-          <properties />
+          <line>8</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java</url>
-          <line>72</line>
-          <properties />
+          <line>66</line>
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java</url>
-          <line>95</line>
-          <properties />
+          <line>89</line>
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Flipkart1/BasedOnTopic.java</url>
-          <line>24</line>
-          <properties />
+          <line>18</line>
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/DBS/findMinimumCost.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ArrayProblems/SwapBloclsOfArrayWithoutSpace.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Visa/LinkedListDelete.java</url>
-          <line>36</line>
-          <properties />
+          <line>33</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Visa/SubArrayProduct.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="155" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Visa/QueryString.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/FirstEvenLongestWord.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="157" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Syncron/FindNumberOfDistinctPairThatSums.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java</url>
-          <line>28</line>
-          <properties />
+          <line>26</line>
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java</url>
-          <line>18</line>
-          <properties />
+          <line>16</line>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java</url>
-          <line>16</line>
-          <properties />
+          <line>14</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java</url>
-          <line>12</line>
-          <properties />
+          <line>11</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java</url>
-          <line>22</line>
-          <properties />
+          <line>21</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java</url>
-          <line>27</line>
-          <properties />
+          <line>26</line>
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/VMWare/VowelSubString.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/VMWare/VowelSubString.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Service.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Waiter.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/HashMapProcessor.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="180" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/Service.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="181" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/Service.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="182" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/Syncron/Coordinateachiveable.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="183" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="184" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="185" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java</url>
-          <line>11</line>
-          <properties />
+          <line>9</line>
           <option name="timeStamp" value="186" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/DynamicPrograming/WaystoDecode.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="187" />
         </line-breakpoint>
       </breakpoints>
@@ -1416,457 +1313,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/MaxDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/MinDepth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Screenshot 2019-04-07 at 8.22.28 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Screenshot 2019-04-07 at 8.00.32 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/MyMovieTitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#0#1155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/Screenshot 2019-02-03 at 1.00.09 AM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/Screenshot 2019-02-03 at 1.00.19 AM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/Screenshot 2019-02-03 at 12.59.58 AM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/Screenshot 2019-02-03 at 12.59.48 AM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/SinglyLinkedListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/LinkedListDelete.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="31" selection-start-line="43" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/SubArrayProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/QueryString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/Booking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Visa/CustomerServiceCapacity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Hackerrank/FirstEvenLongestWord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="5" selection-start-line="24" selection-start-column="2" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Hackerrank/HttpCallToGetMoviess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" column="45" selection-start-line="56" selection-start-column="45" selection-end-line="56" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Syncron/FindNumberOfDistinctPairThatSums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Syncron/HowManyNumbInFirstArrIsSmalThnSecArr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Syncron/Coordinateachiveable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="39" column="20" selection-start-line="10" selection-end-line="39" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreeProbblems/ZigZagLevelOrderTraversalBT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/societeGenerale/StockRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="69" column="52" selection-start-line="69" selection-start-column="35" selection-end-line="69" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/VMWare/DiscountedPrice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/VMWare/VowelSubString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/SimplePojo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Inconsistency/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/HashMapProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/Inconsistency/IncrementCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-          <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7788">
-          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43318">
-          <caret line="2042" selection-start-line="2042" selection-end-line="2042" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15048">
-          <caret line="707" column="12" selection-start-line="707" selection-start-column="12" selection-end-line="707" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Screenshot 2019-04-07 at 8.00.22 PM.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Siemens/FindKthCharInConcatenatedString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/AddTwoLinkedListWithRecursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/DTO.java" />
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/DTO/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#338#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/CachingService/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/Controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/Test/TestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/Test/TestDataTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/LendingCart/ProfitSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/LendingCart/SmallestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Notifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Waiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/WaitNotify/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MultiThreading/ThreadSafety/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CachingPerson/CachingService/SimpleMapBasedCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DynamicPrograming/WaystoDecode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Competitions/Amex/Substring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="67" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

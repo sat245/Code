@@ -1,9 +1,5 @@
 package Math;
 
-import java.util.Map;
-
-import static javafx.application.Platform.exit;
-
 /**
  * Created by satyam mishra, Data Structure on 12/11/17.
  */
