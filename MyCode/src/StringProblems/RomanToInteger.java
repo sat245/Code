@@ -9,7 +9,7 @@ import java.util.Map;
 public class RomanToInteger {
 
     public static void main(String [] args) {
-        System.out.println(romanToInt("MDCCCIV"));
+        System.out.println(romanToInt("MCMXCIV"));
     }
     public static int romanToInt(String a) {
         Map<Character,Integer> map =new HashMap<Character, Integer>();

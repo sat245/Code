@@ -10,6 +10,7 @@ public class ThreeSumZero {
     public static void main(String [] args){
         Integer [] aaaa={1, -4, 0, 0, 5, -5, 1, 0, -2, 4, -4, 1, -1, -4, 3, 4, -1, -1, -3};
         ArrayList<Integer> aa = new ArrayList<Integer>(Arrays.asList(aaaa));
+
 //        aa.add(-1);
 //        aa.add(0);
 //        aa.add(1);
