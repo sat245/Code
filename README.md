@@ -1,4 +1,3 @@
 # Code
-Sharing my code
-Satyam is my name.
+Sharing my algorithmic codes.
 
